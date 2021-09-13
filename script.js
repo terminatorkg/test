@@ -511,6 +511,7 @@ let bmw = Object.assign({}, audi);
 bmw.pioneer.width = 800;
 console.log(bmw.pioneer.width);
 console.log(bmw === audi);
+alert('Alert')
 
 
 
